@@ -7,8 +7,9 @@ def main:
 
 
 
-
-
-
+def start:
+	for i in 10:
+		print i
+	print 'end.'
 
 
