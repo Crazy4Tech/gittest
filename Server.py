@@ -1,18 +1,9 @@
 #!/bin/python
 
-print 'hello,world.'
 
 def main:
-	pass
+	print 'hi,who are u?'
 	return
-
-
-
-
-
-
-
-
 
 
 
